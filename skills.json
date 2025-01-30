@@ -1,8 +1,4 @@
-[
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
+[,
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
@@ -35,10 +31,7 @@
         "name": "Canva",
         "icon": "https://img.icons8.com/color/48/000000/canva.png"
     },
-    {
-        "name": "Power BI",
-        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
-    },
+    ,
     {
         "name": "PowerPoint",
         "icon": "https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png"
@@ -46,5 +39,12 @@
     {
         "name": "Microsoft Word",
         "icon": "https://img.icons8.com/color/48/000000/microsoft-word-2019.png"
-    }
+    },
+    {
+        "name":"MongoDB"
+        "icon":"https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"
+    },
+    {
+        "name":"PostMan"
+        "icon":"https://iconduck.com/icons/94756/postman"
 ]
