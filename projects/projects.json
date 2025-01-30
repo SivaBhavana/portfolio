@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Voice Translator",
+    "desc": "A web application that translates voice input into multiple languages. Built using HTML, CSS, and JavaScript.",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kartheek453/voice-to-text-translation",
+      "code": "https://github.com/kartheek453/voice-to-text-translation"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+    "desc": "A frontend Netflix clone showcasing popular movies and TV shows. Built using HTML, CSS, and JavaScript.",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kartheek453/Netflix-page",
+      "code": "https://github.com/kartheek453/Netflix-page"
+    }
+  },
+  {
+    "name": "Weather Page",
+    "desc": "A weather forecast application that provides real-time weather updates based on location. Built using HTML, CSS, and JavaScript.",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kartheek453/Weather-Page",
+      "code": "https://github.com/kartheek453/Weather-Page"
+    }
+  },
+  {
+    "name": "Move-It",
+    "desc": "The project details have been updated to correctly reflect that Move-It is a website for transporting products from one place to another. ",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kartheek453/move-it",
+      "code": "https://github.com/kartheek453/move-it"
+    }
+  }
+]
