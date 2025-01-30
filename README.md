@@ -11,8 +11,10 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 - Bootstrap
 - Flexbox
 
-### **Backend Development:**
-- Python
+### **Web Development:**
+- MongoDb
+- React
+  
 
 
 
